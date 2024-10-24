@@ -2,10 +2,12 @@
 [![DOI](https://zenodo.org/badge/716525524.svg)](https://doi.org/10.5281/zenodo.13986908)
 
 # BamAset
-Structural models of BamA from various bacterial species generated using the [CollabFold](https://doi.org/10.1038/s41592-022-01488-1) implementation of [AlphaFold2](https://doi.org/10.1038/s41586-021-03819-2).
+Structural models of BamA from various bacterial species generated using the [CollabFold](https://doi.org/10.1038/s41592-022-01488-1) implementation of [AlphaFold2](https://doi.org/10.1038/s41586-021-03819-2) and secondary structure analysis (DSSP) focused on the hinge region.
 
 
 
+
+----
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
