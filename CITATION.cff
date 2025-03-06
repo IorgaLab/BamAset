@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Csoma"
+  given-names: "Naemi"
+  orcid: "https://orcid.org/0000-0002-2858-5771"
+- family-names: "Cho"
+  given-names: "Seung-Hyun"
+  orcid: "https://orcid.org/0000-0002-5548-4239"
+- family-names: "Collet"
+  given-names: "Jean-Francois"
+  orcid: "https://orcid.org/0000-0002-1933-5308"
+- family-names: "Iorga"
+  given-names: "Bogdan I."
+  orcid: "https://orcid.org/0000-0003-0392-1350"
+title: "BamAset"
+version: 0.1
+doi: 10.5281/zenodo.13986908
+date-released: 2024-10-24
+url: "https://github.com/IorgaLab/BamAset"
