@@ -3,7 +3,7 @@
 
 # BamAset
 - Structural models of BamA from various bacterial species generated using the [ColabFold](https://doi.org/10.1038/s41592-022-01488-1) implementation of [AlphaFold2](https://doi.org/10.1038/s41586-021-03819-2) and secondary structure analysis (DSSP) focused on the hinge region.
-- MD simulations files: input .tpr files and final coordinates (1000 ns) in .gro format for the three replicas.
+- MD simulations files: input .tpr files, final coordinates (1000 ns) in .gro format for the three replicas, and raw data for the dihedral angle distribution plots.
 
 
 
