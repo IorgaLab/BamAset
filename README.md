@@ -1,6 +1,10 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 [![DOI](https://zenodo.org/badge/716525524.svg)](https://doi.org/10.5281/zenodo.13986908)
 
+# Publication
+Csoma N., Machin J. M., Whitehouse J. M., Rodrìguez-Alonso R., Olejnik M., Cahill A. K., Cho S. H., Schäberle T. F., Iorga B. I., Ranson N. A., Radford S. E., Calabrese A. N., Collet J. F., Molecular insights into how the motions of the β-barrel and POTRA domains of BamA are coupled for efficient function. Nat Commun 16, 8832 (2025): https://doi.org/10.1038/s41467-025-63897-y
+
+
 # BamAset
 - Structural models of BamA from various bacterial species generated using the [ColabFold](https://doi.org/10.1038/s41592-022-01488-1) implementation of [AlphaFold2](https://doi.org/10.1038/s41586-021-03819-2) and secondary structure analysis (DSSP) focused on the hinge region.
 - MD simulations files: input .tpr files, final coordinates (1000 ns) in .gro format for the three replicas, and raw data for the dihedral angle distribution plots.
